@@ -5,9 +5,8 @@
     color: rgb(142, 184, 209);
     border-style:solid;
     border-color:rgb(0, 255, 234);
-    text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .well {
-    background-color: #1c61bb !important;
-    color:white; 
+    background-color: #f8ba5e !important; 
 }
