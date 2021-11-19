@@ -86,7 +86,7 @@ function buildCharts(sample) {
       type: "bar",
       orientation: "h",
       text: labels,
-      
+      fillColor: "rgb(245, 173, 39)",     
     }];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
