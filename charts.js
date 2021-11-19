@@ -149,13 +149,13 @@ function buildCharts(sample) {
       gauge: {
         axis: {range: [null,10], dtick: "2"},
 
-        bar: {color: "red"},
+        bar: {color: "teal"},
         steps:[
-          {range: [0, 2], color: "00ccff"},
-          {range: [2, 4], color: "0099ff"},
-          {range: [4, 6], color: "0066ff"},
-          {range: [6, 8], color: "3366ff"},
-          {range: [8, 10], color: "3333cc"}
+          {range: [0, 2], color: "ffe0b3"},
+          {range: [2, 4], color: "facf8e"},
+          {range: [4, 6], color: "f8be68"},
+          {range: [6, 8], color: "fab245"},
+          {range: [8, 10], color: "fca21a"}
         ],
         dtick: 2
       }
