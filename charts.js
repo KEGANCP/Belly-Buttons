@@ -92,7 +92,9 @@ function buildCharts(sample) {
     var barLayout = {
      title: "Top 10 Bacteria Cultures Found",
      margin: { t:30, l: 150},
-     fillColor: "rgb(245, 173, 39)",
+     // fillColor: "rgb(245, 173, 39)",
+     fillColor: randomColorGenerator(), 
+     strokeColor: randomColorGenerator(),
     };
     // 10. Use Plotly to plot the data with the layout. 
     Plotly.newPlot("bar", barData, barLayout);
