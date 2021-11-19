@@ -9,4 +9,6 @@
 }
 .well {
     background-color: #f8ba5e !important; 
+    border-style:solid;
+    border-color:rgb(0, 255, 234);
 }
