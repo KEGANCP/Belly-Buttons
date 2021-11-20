@@ -25,17 +25,19 @@ Rosa is a biological researcher; she's currently researching bacteria species th
 </p>
 <p align="center">
  <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/dashboard_dropdown.png" alt="DROPDOWN"/> 
-  
+ </p>
+ <p align="center">
   Once selecting your designated Id number, the "Demographic Info" table will populate with the test subjects specifics. You will also see 3 sets of data visuals populate before your eyes.
   
-  
-  The bar chart below breaks down the top 10 bacteria cultures specific to this test subject.
-  
-  <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/BAR.png" alt="BAR"/>   
-  
-  The gauge will show belly button washing frequency, by scrubs per week.
-  
-  <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/GAUGE.png" alt="GAUGE"/>  
+  <p align="center">  
+    The bar chart below breaks down the top 10 bacteria cultures specific to this test subject.
+    </p>
+    <p align="center">  
+    <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/BAR.png" alt="BAR"/>   
+  </p>
+  <p align="center">  
+    The gauge will show belly button washing frequency, by scrubs per week.
+  </p>  <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/GAUGE.png" alt="GAUGE"/>  
   
   The final visual at the bottom of the page layout will show bacteria cultures per sample.
   
