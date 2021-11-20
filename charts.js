@@ -104,6 +104,7 @@ function buildCharts(sample) {
 
     // 1. Create the trace for the bubble chart.
     var bubbleData = [{
+      title: 'Bacteria Cultures Per Sample',
       x: ids,
       y: bubbleValues,
       text: bubbleLabels,
