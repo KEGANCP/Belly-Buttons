@@ -37,11 +37,13 @@ Rosa is a biological researcher; she's currently researching bacteria species th
   </p>
   <p align="center">  
     The gauge will show belly button washing frequency, by scrubs per week.
-  </p>  <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/GAUGE.png" alt="GAUGE"/>  
-  
-  The final visual at the bottom of the page layout will show bacteria cultures per sample.
-  
-  <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/BUBBLE.png" alt="BUBBLE"/> 
-  
-  
-</p>
+  </p>  
+  <p align="center">  
+  <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/GAUGE.png" alt="GAUGE"/>  
+  </p>
+  <p align="center">  
+    The final visual at the bottom of the page layout will show bacteria cultures per sample.
+  </p>
+  <p align="center">  
+      <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/BUBBLE.png" alt="BUBBLE"/> 
+  </p>
