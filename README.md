@@ -20,6 +20,8 @@ Rosa is a biological researcher; she's currently researching bacteria species th
 <p align="center">
  Being by selecting your assigned "Test Subject ID Number" from the drop down. 
   
+  
+  
   <img src="https://github.com/KEGANCP/Belly-Buttons/blob/main/images/dashboard_dropdown.png" alt="DROPDOWN"/> 
   
   Once selecting your designated Id number, the "Demographic Info" table will populate with the test subjects specifics. You will also see 3 sets of data visuals populate before your eyes.
